@@ -1,4 +1,4 @@
 # Han Accademy USACO 2023 Fall semester
 
-1. 9/17
+1. 9/17 - 2212
 2. 9/24
