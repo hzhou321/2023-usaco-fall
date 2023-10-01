@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class prob2 {
 	public static void main(String [] agrs) {
 		Scanner input = new Scanner(System.in);
-		String number  = input.nextLine();
-		number.toCharArray()
+		int number  = input.nextInt();
 		int move= input.nextInt();
 		String[] cows = new String[number];
 		String[] grass = new String[number];
