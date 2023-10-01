@@ -1,5 +1,3 @@
-
-package unsaco;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -30,7 +28,7 @@ public class prob2 {
 				grassMap.put("H", i+move);
 				grass[i+move] = "H";
 				continue;
-			:}
+	                }
 			
 			int gIndex = grassMap.get("G");
 			int hIndex = grassMap.get("H");
